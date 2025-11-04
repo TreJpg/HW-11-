@@ -38,11 +38,12 @@ background-repeat: no-repeat ;
 }
 
 .name {
-  
   background-color: black;
-  color:white;
+  color: white;
   border: 5px solid green;
-  font-family: times,serif;
+  font-family: times, serif;
+  padding: 10px;
+  margin: 10px 0;
 }
 
 .hex {
@@ -66,7 +67,7 @@ background-repeat: no-repeat ;
   color:hsla(242, 242, 242, .8) ; /*4th commit*/ 
   /*change color to Color: hsla(0, 0%, 95%, .8) after first commit*/
   Border: 5px solid hsl(0, 87%, 59%);
-  font-family: 'silkscreen',cursive;
+  font-family: 'Silkscreen', cursive;
 }
 
 .hue1 {
