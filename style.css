@@ -62,7 +62,8 @@ background-repeat: no-repeat ;
 
 .hsl {
   background-color: hsl(0, 60%, 34%) ;
-  color: hsl(0, 0%, 95%);
+  /*color: hsl(0, 0%, 95%);*/
+  color:hsla(242, 242, 242, .8) ; /*4th commit*/ 
   /*change color to Color: hsla(0, 0%, 95%, .8) after first commit*/
   Border: 5px solid hsl(0, 87%, 59%)
   font-family: 'silkscreen',cursive;
