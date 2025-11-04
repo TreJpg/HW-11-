@@ -39,7 +39,7 @@ background-repeat: no-repeat ;
 
 .name {
   
-  background-color: black
+  background-color: black;
   color:white;
   border: 5px solid green;
   font-family: times,serif;
@@ -65,40 +65,40 @@ background-repeat: no-repeat ;
   /*color: hsl(0, 0%, 95%);*/
   color:hsla(242, 242, 242, .8) ; /*4th commit*/ 
   /*change color to Color: hsla(0, 0%, 95%, .8) after first commit*/
-  Border: 5px solid hsl(0, 87%, 59%)
+  Border: 5px solid hsl(0, 87%, 59%);
   font-family: 'silkscreen',cursive;
 }
 
 .hue1 {
-  Background-color: hsl(60, 60%, 34%)
+  Background-color: hsl(60, 60%, 34%);
 }
 
 .hue2 {
- Background-color: hsl(240, 60%, 34%)
+ Background-color: hsl(240, 60%, 34%);
 }
 
 .sat1 {
- Background-color: hsl(0, 100%, 34%)
+ Background-color: hsl(0, 100%, 34%);
 }
 
 .sat2 {
-  Background-color: hsl(0, 50%, 34%)
+  Background-color: hsl(0, 50%, 34%);
 }
 
 .sat3 {
- Background-color: hsl(0, 0%, 34%)
+ Background-color: hsl(0, 0%, 34%);
 }
 
 .light1{
-Background-color: hsl(0, 60%, 0%)
+Background-color: hsl(0, 60%, 0%);
 }
 
 .light2{
-  Background-color: hsl(0, 60%, 50%)
+  Background-color: hsl(0, 60%, 50%);
 }
 
 .light3{
- Background-color: hsl(0, 60%, 100%)
+ Background-color: hsl(0, 60%, 100%);
 }
 
 .row {
